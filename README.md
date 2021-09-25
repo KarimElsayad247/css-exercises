@@ -41,5 +41,5 @@ These exercises should be done when instructed during the course of the curricul
   - 03-flex-header-2 [✅]
   - 04-flex-information [✅]
   - 05-flex-modal [✅]
-  - 06-flex-layout [ ]
+  - 06-flex-layout [✅]
   - 07-flex-layout-2 [ ]
